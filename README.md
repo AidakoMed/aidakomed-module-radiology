@@ -1,7 +1,7 @@
 # aidakomed-module-radiology
 
 ```bash
-cd openmrs-module-radiology
+cd aidakomed-module-radiology
 mvn clean package
 ```
 
